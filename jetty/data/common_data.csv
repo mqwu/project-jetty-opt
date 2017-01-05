@@ -1,0 +1,86 @@
+ProductName,ProductLine ,Location,Jetty,Cluster,AvgPumpingRate,DeviationPumpingRate,NitrogenPadO2Pct,NitrogenPurO2Pct,CleaningSlops,WallWash,Density,ProductCode
+Benzene,,,,,,0,0,0,,,885,Q9112
+Benzene,,,,,,0,0,0,,,885,Q9121
+Benzene,,,,,,0,0,0,,,885,Q9169
+Benzene,,,,,,0,0,0,,,885,Q9262
+Caradol ED56-200,,Pernis,18,NA,98,10,5,0,2,0,1003,U1756
+Caradol MC28-02,,,,,,0,5,0,,,1021,U3110
+Caradol SC48-08,,Pernis,18,4,63,6,5,0,2,0,1019,U311L
+Caradol SC56-15,,Pernis,18,4,55,6,5,0,2,0,1015,U3194
+Caradol SC56-16,,,,,,0,5,0,,,1017,U311D
+Caradol SP30-45,,Pernis,18,11,98,10,5,0,2,0,1020,U317C
+Caradol SP37-25V,,Pernis,18,11,73,7,5,0,2,0,1020,U317P-SDS
+Caradol SP44-10V,,Pernis,18,11,80,8,5,0,2,0,1020,U317R
+Ethylene Glycol all grades ,,,,,,0,0,0,,,1113,U1285
+GTL Gas Oil,,,,,,0,0,0,,,865,X2509
+Heptane,,Pernis,4,5,40,4,0,0,,,713,Q1352
+Heptane,,Pernis,4,5,40,4,0,0,,,713,Q92231
+Hexane (Extraction Grade),,Pernis,4,3,100,10,0,0,,,670,Q1252
+Isopropyl alcohol (IPA) - USP,,Pernis,18,1,185,19,8,0,,,780,S1144
+Isopropyl alcohol (IPA) - Technical,,Pernis ,18,1,185,19,8,8,,,780,S1111
+Linevol 9,,,,,,0,0.01,0.01,,,830,V9341
+MEG Sp Gr U1285,,Moerdijk,4,A,216,22,10,0,1,0,,
+Methanol,,,,,,0,0,0,,,,S8111
+Methyl ethyl ketone (MEK),,Pernis,35A,5,109,11,5,0,0,0,805,S2113
+Methyl Diproxitol (MDP),,Pernis,35A,,140,14,5,0,0,0,952,U5139
+Methyl Proxitol (MP),,Pernis,35A,2,136,14,5,0,0,0,921,U5141
+Methyl Proxitol Acetate (MPA),,Pernis,18,13,91.35,9,0,0,0,0,960,U5126
+Methyl Proxitol Acetate (MPA),,Pernis,35A,2,91.35,9,0,0,0,0,960,
+Methyl Tertiary Butyl Ether (MTBE),,,,,,0,0,0,,,740,S2002
+Methyl Isobutyl Ketone,,Pernis,18,1,100,10,8,0,,,801,S1215
+"Neodene 6 (1-hexene)
+(Only 1 SDS from UK)",,,,,,0,0.01,0.01,,,674,V1167
+Neodene 8 Alpha Olefin,,,,,,0,0.05,0.05,,,715,V1168
+Neodene 8 Alpha Olefin,,,,,,0,0.05,0.05,,,715,V9310
+Neodene 810 Alpha Olefin (No CHS for this SDS),,,,,,0,0,0,,,739,V1179
+Neodene 10 Alpha Olefin,,,,,,0,0.1,0.1,,,741,V1141
+Neodene 1112 Internal Olefin,,,,,,0,0,0,,,755,V1147
+Neodene 12 Alpha Olefin,,,,,,0,0,0,,,758,V1142
+Neodene 14 Alpha Olefin,,,,,,0,0,0,,,775,V1143
+"Neodene 141618 Alpha Olefin
+(Neodene 1418) Opens same MSDS",,,,,,0,0,0,,,787,V1176
+"Neodene 141618 Alpha Olefin
+(Neodene 1418) Opens same MSDS",,,,,,0,0,0,,,787,V1325
+"Neodene 141618 Alpha Olefin
+(Neodene 1418) Opens same MSDS",,,,,,0,0,0,,,787,V1239
+"Neodene 141618 Alpha Olefin
+(Neodene 1418) Opens same MSDS",,,,,,0,0,0,,,787,V1326
+"Neodene 141618 Alpha Olefin
+(Neodene 1418) Opens same MSDS",,,,,,0,0,0,,,787,V1324
+Neodene 16 Alpha Olefin,,,,,,0,0,0,,,781,V1144
+Neodene 18 Alpha Olefin,,,,,,0,0,0,,,789,V1145
+Neodene 2022 ,,,,,85,9,0,0,,,791,V1131
+Neodol 23,,,,,,0,0.01,0.01,,,833,V2728
+Neodol 25-7,,,,,,0,5,0,,,970,V2453
+Neodol 25-7,,,,,,0,5,0,,,970,V2668
+Neodol 45,,,,,,0,0.01,0.01,,,833,V2456
+Neodol 45-7,,,,,,0,5,0,,,969,V2459
+Neodol 911 (new),,,,,,0,0.01,0.01,,,930,X3085
+Pentane mix,,Pernis,4,3,57,6,0,0,0,0,624,Q1125
+Pygas,,,,,,0,0,0,,,760,Q9117
+Pygas,,,,,,0,0,0,,,760,Q9118
+Pygas,,,,,,0,0,0,,,760,Q9120
+Pygas,,,,,,0,0,0,,,760,X2304
+Pygas,,,,,,0,0,0,,,760,X2319
+Pygas,,,,,,0,0,0,,,760,X2320
+Pygas,,,,,,0,0,0,,,760,X2337
+Pygas,,,,,,0,0,0,,,760,X2354
+SBP 80/110,,Pernis,4,5,40,4,0,0,,,714,Q5411
+Shellsol A100,,Pernis,4,2,165,17,0,0,0,0,876,Q7391
+Shellsol A150,,Pernis,4,2,63,6,0,0,,,893,Q7493
+Shellsol D100,,Pernis,4,4,56,6,0,0,,,797,Q7732
+Shellsol D40,,Pernis,4,4,149,15,0,0,,,770,Q3362
+Shellsol D60,,Pernis,4,4,128,13,0,0,0,0,780,Q3522
+Shellsol D70,,Pernis,4,4,127,13,0,0,,,792,Q7712
+Shellsol HF250D,,,,,,0,0,0,,,780,Q7444
+Shellsol HF250lso,,,,,,0,0,0,,,761,Q7424
+Shellsol TD ,,Pernis,4,6,50,5,8,0,,,751,Q7411
+Styrene monomer,,Moerdijk,5,1,450,45,0,0,0,0,907,Q9211
+Styrene monomer,,Moerdijk,5,1,450,45,0,0,0,0,907,Q9215
+Styrene monomer,,Moerdijk,5,1,450,45,0,0,0,0,907,Q9257
+HVI 60,,,,,,0,0,0,,,888,
+HVI 120,,,,,,0,0,0,,,884,
+HVI 160B,,,,,,0,0,0,,,888,
+HVI 650,,,,,,0,0,0,,,905,
+SBP 100/140,,Pernis,4,5,75,8,0,0,0,0,735,
+Ethyl Proxitol (EP),,Pernis,18,3,155,16,0,0,,,897,U5129
